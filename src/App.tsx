@@ -4,7 +4,7 @@ import classes from './App.module.css'
 function App() {
   return (
     <div className={classes.app}>
-      <h1>Hello GitHub</h1>
+      <h1>Encontrar perfil GitHub</h1>
       <Outlet />
     </div>
   )
